@@ -1,4 +1,4 @@
-# Hi 👋, I'm Fajaruddin Djunaedi
+# Hi 👋, I'm Fajaruddin
 
 **Database & Data Platform Engineer** — real-time data systems, PostgreSQL, Cassandra/DataStax, and automation.  
 Keeping high-volume data pipelines reliable, fast, and easy to operate.
